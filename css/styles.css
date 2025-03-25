@@ -1,0 +1,46 @@
+/*Body styling*/
+body{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+/*Text styling*/
+h1, h3, p, label, option, input, select, button{
+    font-family: "Lobster", sans-serif;
+}
+/*h3 styling*/
+h3{
+    color: rgb(75, 5, 75);
+    text-shadow: 2px 2px 4px rgba(50, 0, 100, .3);
+}
+/*label styling*/
+label{
+    display: block;
+    color: rgb(75, 5, 75);
+    text-shadow: 2px 2px 4px rgba(50, 0, 100, .2)
+}
+/*button styling*/
+button{
+    background-color: rgb(216, 159, 168);
+    border: 2px solid black;
+}
+button:hover{
+    background-color: rgb(75, 5, 75);
+    color: rgb(116, 132, 135);
+    font-size: 1.1em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, .5)
+}
+/*section styling*/
+section{
+    margin-top: 25px;
+}
+/*Order Summary styling*/
+.order-styling{
+    display: none;
+    border: 2px solid black;
+    padding: 0 20px;
+    background-color: rgb(216, 159, 168);
+}
