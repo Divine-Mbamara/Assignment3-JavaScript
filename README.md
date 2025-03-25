@@ -8,7 +8,7 @@ presents it to the customer.
 You can view the live version of the project here: [Live Demo](https://divine-mbamara.github.io/Assignment3-JavaScript/)
 
 ### PROJECT PREVIEW
-![Project Preview](img/assignment3-javascript-preview.png)
+![Project Preview](assignment3-javascript-preview.png)
 
 ### INSTRUCTIONS 
 1. Create an html file (index.html) and two folders which contain CSS and JavaScript for the 
